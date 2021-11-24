@@ -2,5 +2,5 @@
   "$schema": "https://developer.microsoft.com/json-schemas/core-build/serve.schema.json",
   "port": 4321,
   "https": true,
-  "initialPage": "https://nestle.sharepoint.com/teams/M2FTestCommunicationSite/_layouts/workbench.aspx"
+  "initialPage": "https://progesoftware.sharepoint.com/sites/edes-test/_layouts/workbench.aspx"
 }

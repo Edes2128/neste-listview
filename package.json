@@ -9,16 +9,25 @@
     "test": "gulp test"
   },
   "dependencies": {
+    "@fluentui/react": "^8.42.1",
     "@microsoft/sp-core-library": "1.13.0",
     "@microsoft/sp-lodash-subset": "1.13.0",
     "@microsoft/sp-office-ui-fabric-core": "1.13.0",
     "@microsoft/sp-property-pane": "1.13.0",
     "@microsoft/sp-webpart-base": "1.13.0",
+    "@mikecousins/react-pdf": "^5.5.1",
     "@pnp/sp": "^2.10.0",
+    "@pnp/spfx-controls-react": "3.4.1",
+    "@pnp/spfx-property-controls": "^3.2.0",
     "m2f": "git+https://nestle-adms.visualstudio.com/M2F_Solutions/_git/M2F.Core",
     "office-ui-fabric-react": "7.174.1",
+    "pdf-viewer-reactjs": "^2.2.3",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-file-viewer": "^1.2.1",
+    "react-pdf": "^5.5.0",
+    "react-slick": "^0.28.1",
+    "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
     "@microsoft/rush-stack-compiler-3.9": "0.4.47",

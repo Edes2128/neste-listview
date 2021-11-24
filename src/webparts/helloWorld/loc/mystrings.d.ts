@@ -1,7 +1,10 @@
 declare interface IHelloWorldWebPartStrings {
   PropertyPaneDescription: string;
   BasicGroupName: string;
-  DescriptionFieldLabel: string;
+  CarouselTime: string;
+  Lists : string;
+  ItemsNumber : string;
+  HeightPDF : string;
 }
 
 declare module 'HelloWorldWebPartStrings' {
